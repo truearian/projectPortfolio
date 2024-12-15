@@ -1,0 +1,26 @@
+This build is for Windows, has an option for DEV MODE where you can select the level to start with changing up the difficulty with variable amounts available as part of the game mechanic.
+More will be done for the game with my group, we have plans on adding a character selection, save files, endless mode and even a multiplayer mode.
+
+Download here:
+https://drive.google.com/file/d/1tR4RT0EEdzndga-OqlI3mgZ4ImGLpbE0/view?usp=drive_link
+
+for any questions reach out to tashakkorarian@gmail.com
+read the README file for known bugs.
+
+*THINGS I DID AND LEARNED DURING THIS PROJECT*
+                VVVVVVVVVV
+
+Game Dev
+Team Skills
+Reaching Deadlines
+Level Design
+Coming up with game mechanics that blend well together
+Player movement, inventory, item usage, stats (stamina, sanity etc) and how each affects the gameplay
+In game visuals (Patient chart visuals when sanity is low/mid)
+HUD visuals
+Animation (states)
+C#
+Game Balance and QOL improvements
+Debugging in Unity
+Unity shortcuts
+AND MUCH MUCH MORE
